@@ -1,6 +1,6 @@
 # Face-Recognition-using-FaceNet
 Thank you davidsandberg for inspiring me tp write this program. you can check this github. https://github.com/davidsandberg/facenet
-# you can download pre-trained model from this link: https://drive.google.com/file/d/1R77HmFADxe87GmoLwzfgMu_HY0IhcyBz/view
+ you can download pre-trained model from this link: https://drive.google.com/file/d/1R77HmFADxe87GmoLwzfgMu_HY0IhcyBz/view
 ##Structure of file:
 
 #Sample data
