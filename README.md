@@ -1,16 +1,16 @@
 # Face-Recognition-using-FaceNet
 Thank you davidsandberg for inspiring me tp write this program. you can check this github. https://github.com/davidsandberg/facenet
-Structure of file:
-Sample data
-    |__persion1:
-      |__ image1.jpg
-      |__ image2/jpg
-      |__...
-    |__persion2:
-      |__ image1.jpg
-      |__ image2/jpg
-      |__   
-    ...
+##Structure of file:
+##Sample data
+##    |__persion1:
+##      |__ image1.jpg
+##      |__ image2/jpg
+##      |__...
+##    |__persion2:
+##      |__ image1.jpg
+##      |__ image2/jpg
+##      |__   
+##   ...
 test data
 How does it work:
 + Load Sample data using MTCNN to detect face and align image. After that save output_image to new folder
