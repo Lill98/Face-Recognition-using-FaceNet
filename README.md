@@ -1,11 +1,12 @@
 # Face-Recognition-using-FaceNet
 Thank you davidsandberg for inspiring me tp write this program. you can check this github. https://github.com/davidsandberg/facenet
 ##Structure of file:
-##Sample data
+
+#Sample data
 ##    |__persion1:
-##      |__ image1.jpg
-##      |__ image2/jpg
-##      |__...
+##         |__ image1.jpg
+##         |__ image2/jpg
+##         |__...
 ##    |__persion2:
 ##      |__ image1.jpg
 ##      |__ image2/jpg
